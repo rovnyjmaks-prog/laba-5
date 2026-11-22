@@ -133,3 +133,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/
+.pytest_cache/
